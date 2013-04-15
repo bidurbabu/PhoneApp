@@ -2,20 +2,20 @@
     <channel>
         <title>Playlist Feed</title>
         <item>
-            <title>Test1</title>
-            <link>http://somafm.com/groovesalad56.pls</link>
+            <title>Kantipur FM</title>
+            <link>http://kantipur-stream.softnep.com:7248/</link>
         </item>
         <item>
-            <title>Test2</title>
-            <link>http://www.bassdrive.com/v2/streams/BassDrive3.pls</link>
+            <title>Hitsfm</title>
+            <link>http://202.52.237.122/hitsfm</link>
         </item>
         <item>
-            <title>Test3</title>
-            <link>http://www.bassdrive.com/v2/streams/BassDrive.pls</link>
+            <title>Radio Bandipur</title>
+            <link>http://shoutcast.itechnepal.net:8124/;</link>
         </item>
         <item>
-            <title>Radio Swiss Classic</title>
-            <link>http://www.radioswissclassic.ch/live/mp3.m3u</link>
+            <title>ImageFM</title>
+            <link>http://202.166.217.123:89/</link>
         </item>
         <item>
             <title>Radio Swiss Jazz</title>
